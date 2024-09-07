@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Truc Linh</h1>
-<h3 align="center">A third-year student passionate in AI/Machine Learning</h3>
+<h3 align="center">A fourth-year student passionate in AI/Machine Learning</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 
